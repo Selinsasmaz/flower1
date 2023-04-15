@@ -1,4 +1,4 @@
 ### flower1
 
 ## Screen
-![](bitki.gif)
+![](screen.gif)
